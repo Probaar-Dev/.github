@@ -21,8 +21,8 @@ At Probaar, we provide the best shopping experience, trusted by over 350 clients
 
 Download our app for a seamless shopping experience on the go:
 
-- **iOS App**: Available on the [App Store](https://www.apple.com/app-store/](https://apps.apple.com/uy/app/probaar-horeca/id1598748275 ).
-- **Android App**: Available on [Google Play](https://play.google.com/store](https://play.google.com/store/apps/details?id=com.thespiritcompany.probaarhoreca&hl=es_MX ).
+- **iOS App**: Available on the [App Store](https://apps.apple.com/uy/app/probaar-horeca/id1598748275).
+- **Android App**: Available on [Google Play](https://play.google.com/store/apps/details?id=com.thespiritcompany.probaarhoreca&hl=es_MX).
 
 Our apps are built with Flutter, ensuring a smooth and responsive user experience.
 
