@@ -4,11 +4,7 @@ Welcome to **Probaar**, the digital supermarket for businesses. We offer the mos
 
 ## About Us
 
-At Probaar, we provide the best shopping experience, trusted by over 350 clients, including:
-
-- **BTH Hotel**
-- **Dasso**
-- **Fridays**
+At Probaar, we provide the best shopping experience, trusted by over 350 clients.
 
 ## Key Features
 
